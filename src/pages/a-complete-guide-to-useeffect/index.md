@@ -4,7 +4,7 @@ date: '2019-03-09'
 spoiler: Effects are a part of your data flow.
 ---
 
-You wrote a few components with [Hooks](https://reactjs.org/docs/hooks-intro.html). Maybe even a small app. You’re mostly satisfied. You’re comfortable with the API and picked up a few tricks along the way. You even made some [custom Hooks](https://reactjs.org/docs/hooks-custom.html) to extract repetitive logic (300 lines gone!) and showed it off to your colleagues. “Great job”, they said.
+Test2 You wrote a few components with [Hooks](https://reactjs.org/docs/hooks-intro.html). Maybe even a small app. You’re mostly satisfied. You’re comfortable with the API and picked up a few tricks along the way. You even made some [custom Hooks](https://reactjs.org/docs/hooks-custom.html) to extract repetitive logic (300 lines gone!) and showed it off to your colleagues. “Great job”, they said.
 
 But sometimes when you `useEffect`, the pieces don’t quite fit together. You have a nagging feeling that you’re missing something. It seems similar to class lifecycles... but is it really? You find yourself asking questions like:
 
